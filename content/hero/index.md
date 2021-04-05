@@ -5,7 +5,6 @@ subtitle: 'Roboticist'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Mechanical Engineer from VIT Chennai, India. 
+I am a versatile and self-motivated engineer highly skilled in Autonomous Systems and Robotic Real-time Perception, focusing on aerial and ground systems. 
 
-My research interests lies in the intersection of Autonomous Systems and Real-time Perception. 
-
+I aim to work on research-oriented organizations that utilizes my technical skills and helps me in honing my skills. 
