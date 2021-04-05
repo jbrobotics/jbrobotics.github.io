@@ -3,7 +3,7 @@ date: '9'
 title: 'Visual Odometry'
 cover: './traj.png'
 github: 'https://github.com/jerriebright/VISUAL-ODOMETRY'
-external: 'https://youtu.be/q9OxHqz_HGw'
+external: 'https://youtu.be/v2gHYkB7qME'
 tech:
   - Vision
   - Python
