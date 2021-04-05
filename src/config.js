@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Jerrin Bright | Autonomous system and Real-time Perception',
+  siteTitle: 'Jerrin Bright | Roboticist',
   siteDescription:
     'Jerrin Bright is a pre-final year from VIT Chennai. He is a robotics and vision enthusiast.',
   siteKeywords:
