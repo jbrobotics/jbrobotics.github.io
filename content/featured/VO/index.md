@@ -1,7 +1,7 @@
 ---
 date: '9'
 title: 'Visual Odometry'
-cover: 'face-mask.png'
+cover: './traj.png'
 github: 'https://github.com/jerriebright/VISUAL-ODOMETRY'
 external: 'https://youtu.be/q9OxHqz_HGw'
 tech:
