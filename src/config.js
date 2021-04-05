@@ -4,10 +4,10 @@ module.exports = {
     'Jerrin is a versatile and self-motivated engineer highly skilled in Autonomous Systems and Robotic Real-time Perception, focusing on aerial and ground systems..',
   siteKeywords:
     'Jerrin Bright, robotics, vision, Autonomous, perception, mcmaster, arizona, VIT',
-  siteUrl: 'https://jbright.github.io/',
+  siteUrl: 'https://jbright.netlify.app/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'G-0G3JZFDKEJ',
+  googleVerification: 'zSzeyBHCZTRVCj5vaqacDof9caOzhzY3sEt2Ko8J0Fs',
   name: 'Jerrin Bright',
   location: 'Chennai, India',
   email: 'jerriebright@gmail.com',
