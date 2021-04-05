@@ -1,7 +1,7 @@
 ---
 date: '2020-06-01'
 title: 'Data Science Intern'
-company: 'BrainMagic InfoTech Pvt Ltd'
+company: 'BrainMagic InfoTech'
 location: 'remote'
 range: 'May 2020 – July 2020'
 url: 'http://brainmagic.co.in/'
