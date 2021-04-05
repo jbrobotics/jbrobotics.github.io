@@ -1,7 +1,7 @@
 ---
 date: '9'
 title: 'Visual Odometry'
-cover: './traj.png'
+cover: './traj.jpg'
 github: 'https://github.com/jerriebright/VISUAL-ODOMETRY'
 external: 'https://youtu.be/v2gHYkB7qME'
 tech:
