@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jbright.github.io/sitemap.xml
+Host: https://jbright.github.io
