@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Custom Training for Ball Tracking'
-cover: './traj.jpg'
+cover: './ball.jpg'
 github: ' '
 external: 'https://www.youtube.com/watch?v=JOu7cL52pHk&t=1s'
 tech:
