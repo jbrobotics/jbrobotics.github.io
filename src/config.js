@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Jerrin Bright | Roboticist',
   siteDescription:
-    'Jerrin Bright is a pre-final year from VIT Chennai. He is a robotics and vision enthusiast.',
+    'Jerrin is a versatile and self-motivated engineer highly skilled in Autonomous Systems and Robotic Real-time Perception, focusing on aerial and ground systems..',
   siteKeywords:
     'Jerrin Bright, robotics, vision, Autonomous, perception, mcmaster, arizona, VIT',
   siteUrl: 'https://jbright.github.io/',
