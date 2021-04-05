@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Drone Navigation Using Behavioral'
-cover: 'aerostack.jpg'
+cover: './aerostack.jpg'
 github: 'https://github.com/cvar-upm/aerostack'
 external: 'https://www.youtube.com/watch?v=BvRMGzqvTik'
 tech:
